@@ -333,3 +333,17 @@ This repository showcases Naya Prayog Technologies' education ERP software devel
 For customisation, pricing, implementation, or integration enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Admissions</b><br><br><img src="screenshots/2-admissions.png" alt="Admissions"></td>
+    <td align="center" width="50%"><b>Finance</b><br><br><img src="screenshots/3-finance.png" alt="Finance"></td>
+  </tr>
+</table>
